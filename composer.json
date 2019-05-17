@@ -1,0 +1,16 @@
+{
+    "name": "siriusnottin/gutenberg-section-block",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/siriusnottin/gutenberg-section-block",
+    "authors": [
+      {
+        "name": "Marc Lacroix",
+        "homepage": "https://github.com/marcusig"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.6"
+    }
+  }
